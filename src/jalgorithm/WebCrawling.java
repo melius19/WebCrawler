@@ -73,7 +73,7 @@ public class WebCrawling {
 			System.out.println("title :  " + recruit.getElementsByTag("a").get(1).text());
 			System.out.println("href  :  " + recruit.getElementsByTag("a").get(1).attr("href"));
 			System.out.println();
+			System.out.println();
 		}
-
 	}
 }
