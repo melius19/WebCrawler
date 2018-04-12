@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="D:/r_project/java_lib/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/r_project/java_lib/selenium-server-standalone-3.11.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
